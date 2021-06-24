@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sheetal73
-- 👀 I’m interested in Web Development and ML
+- 👀 I’m interested in Web Development and Machine Learning
 - 🌱 I’m currently persuing B.Tech CSE
 - 💞️ I’m looking to collaborate on any good Projects.
 - 📫 How to reach me @Aarshe(Discord)
